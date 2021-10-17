@@ -8,13 +8,13 @@ The smart contract allows for creation of an account that uses two user addresse
 
 ## Technologies
 
-Solidity: The smart contract is written in Solidity and compatible with Ethereum-based blockchains.
+The smart contract is written in Solidity and compatible with Ethereum-based blockchains.
 
 ---
 
 ## Installation Guide
 
-This smart contract can be compiled and deployed, and tested using the JavaScript VM in the Ethereum Remix IDE.
+This smart contract can be compiled, deployed, and tested using the JavaScript VM in the Ethereum Remix IDE.
 
 See the **Examples** section below for results of testing the contract in this way.  
 
